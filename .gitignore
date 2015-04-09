@@ -1,0 +1,27 @@
+#Folders
+
+CSharp_Sample/obj/
+CSharp_Sample/bin/
+
+CSharp_Sample/packages/
+!CSharp_Sample/packages/repositories.config
+
+ModuleSecond/obj/
+ModuleSecond/bin/
+
+ModuleSecond/packages/
+!ModuleSecond/packages/repositories.config
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
